@@ -1,2 +1,2 @@
 # aws-project
-This is a project related to aws devops.
+This is a project related to aws devops pipeline.
